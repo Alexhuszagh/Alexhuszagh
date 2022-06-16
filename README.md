@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/AlexHuszagh/AlexHuszagh/raw/main/HeadEmpty.jpg" alt="no thoughts. only head empty.">
+  <img src="https://github.com/AlexHuszagh/AlexHuszagh/raw/main/HeadEmpty.jpg" alt="no thoughts. only head empty." width="50%" height=50%">
 </div>
 
 ## About Me
