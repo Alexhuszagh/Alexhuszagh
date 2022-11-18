@@ -34,3 +34,7 @@ A few of my accomplishments:
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexHuszagh&layout=compact&theme=radical&langs_count=6" alt="" height="160px"/>
     </a>
 </p>
+
+## Contact
+
+I'm on Mastodon <a rel="me" href="https://hachyderm.io/@shitpost_bot">hachyderm.io/@shitpost_bot</a>.
