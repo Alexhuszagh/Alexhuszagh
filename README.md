@@ -6,15 +6,17 @@
 
 Just a former biologist who got bored enough with Excel to start writing scripts to automate that process. Next thing, I'm optimizing floating-point parsers cross-compiled to a Raspberry Pi. Thinking is overrated and we should do less of it.
 
-[![My Skills](https://skillicons.dev/icons?i=rust,python,cpp,docker,nodejs,qt,cmake,selenium,mongodb,vue,linux,bash)](https://skillicons.dev)
+All of my projects are done on my own time, and are not related to my day job, so I appreciate your understanding that reviewing and merging PRs and feature enhancements may take some time. 
+
+[![My Skills](https://skillicons.dev/icons?i=rust,python,cpp,docker,nodejs,qt,dotnet,cmake,selenium,mongodb,vue,html,css,linux,bash)](https://skillicons.dev)
 
 A few of my accomplishments:
 - Author of the Rust core library float [parser][rust-lang-pr].
-- Creator of [rust-lexical], which implements fast float parsing and writing algorithms, used in [polars] and more.
+- Creator of [rust-lexical], which implements fast float parsing and writing algorithms, used in [jiter] (formerly [polars]) and more.
 - Designed the [digit comparison algorithm][digit-comparison] for unambiguous floating-point parsing for near-halfway cases, used in [fast float][fast-float] and [rust-lexical].
 - Designed stylish, customizable light and dark Qt [stylesheets][breeze-stylesheets].
 - Maintainer for [cross-rs], for minimal setup cross-compilation on Rust.
-- Author of [xcross], a port of [cross-rs] for C/C++ projects with vcpkg and conan integrations.
+- Maintainer of a fork of [fast-float] with security patches, used in [polars] and more..
 - is unable to think during the summer heat.
 
 [rust-lang-pr]: https://github.com/rust-lang/rust/pull/86761
@@ -23,6 +25,7 @@ A few of my accomplishments:
 [fast-float]: https://github.com/fastfloat/fast_float
 [breeze-stylesheets]: https://github.com/Alexhuszagh/BreezeStyleSheets
 [cross-rs]: https://github.com/cross-rs/cross
+[jiter]: https://github.com/pydantic/jiter
 [polars]: https://github.com/pola-rs/polars
 [xcross]: https://github.com/Alexhuszagh/xcross
 
