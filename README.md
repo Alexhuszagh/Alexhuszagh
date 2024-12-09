@@ -12,12 +12,17 @@ All of my projects are done on my own time, and are not related to my day job, s
 
 A few of my accomplishments:
 - Author of the Rust core library float [parser][rust-lang-pr].
-- Creator of [rust-lexical], which implements fast float parsing and writing algorithms, used in [jiter] (formerly [polars]) and more.
+- Creator of [rust-lexical], which implements fast float parsing and writing algorithms, used in [jiter], [arrow], [rust-python], [databend], (formerly [polars]) and more.
 - Designed the [digit comparison algorithm][digit-comparison] for unambiguous floating-point parsing for near-halfway cases, used in [fast float][fast-float] and [rust-lexical].
 - Designed stylish, customizable light and dark Qt [stylesheets][breeze-stylesheets].
 - Maintainer for [cross-rs], for minimal setup cross-compilation on Rust.
 - Maintainer of a fork of [fast-float] with security patches, used in [polars] and more..
 - is unable to think during the summer heat.
+
+Some other notable projects using lexical include:
+- [hifitime]
+- [merde]
+- [noodles]
 
 [rust-lang-pr]: https://github.com/rust-lang/rust/pull/86761
 [rust-lexical]: https://github.com/Alexhuszagh/rust-lexical
@@ -28,6 +33,12 @@ A few of my accomplishments:
 [jiter]: https://github.com/pydantic/jiter
 [polars]: https://github.com/pola-rs/polars
 [xcross]: https://github.com/Alexhuszagh/xcross
+[arrow]: https://github.com/apache/arrow-rs
+[hifitime]: https://github.com/nyx-space/hifitime
+[rust-python]: https://github.com/RustPython/Parser
+[merde]: https://github.com/bearcove/merde
+[noodles]: https://github.com/zaeleus/noodles
+[databend]: https://github.com/databendlabs/bendsql
 
 ## Stats
 
