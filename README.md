@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://github.com/AlexHuszagh/AlexHuszagh/raw/main/HeadEmpty.jpg" alt="no thoughts. only head empty." width="50%" height=50%">
+  <img src="https://github.com/AlexHuszagh/AlexHuszagh/raw/main/VariableBarricade.png" alt="Variable Barricade with the guys around you." width="65%" height=65%">
 </div>
 
 ## About Me
 
 Just a former biologist who got bored enough with Excel to start writing scripts to automate that process. Next thing, I'm optimizing floating-point parsers cross-compiled to a Raspberry Pi. Thinking is overrated and we should do less of it.
 
-All of my projects are done on my own time, and are not related to my day job, so I appreciate your understanding that reviewing and merging PRs and feature enhancements may take some time. 
+All of my projects are done on my own time, and are not related to my day job, so I appreciate your understanding that reviewing and merging PRs and feature enhancements may take some time.
 
 [![My Skills](https://skillicons.dev/icons?i=rust,python,cpp,docker,nodejs,qt,dotnet,cmake,selenium,mongodb,vue,html,css,linux,bash)](https://skillicons.dev)
 
@@ -32,7 +32,6 @@ Some other notable projects using lexical include:
 [cross-rs]: https://github.com/cross-rs/cross
 [jiter]: https://github.com/pydantic/jiter
 [polars]: https://github.com/pola-rs/polars
-[xcross]: https://github.com/Alexhuszagh/xcross
 [arrow]: https://github.com/apache/arrow-rs
 [hifitime]: https://github.com/nyx-space/hifitime
 [rust-python]: https://github.com/RustPython/Parser
