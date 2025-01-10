@@ -19,10 +19,18 @@ A few of my accomplishments:
 - Maintainer of a fork of [fast-float] with security patches, used in [polars] and more..
 - is unable to think during the summer heat.
 
-Some other notable projects using lexical include:
+Some other notable projects using lexical or fast-float2 include:
 - [hifitime]
 - [merde]
 - [noodles]
+- [pagefind]
+- [swc]
+- [qlty]
+- [GraphQL]
+- [posixutils-rs]
+- [jsonb]
+- [boa]
+- [qsv]
 
 [rust-lang-pr]: https://github.com/rust-lang/rust/pull/86761
 [rust-lexical]: https://github.com/Alexhuszagh/rust-lexical
@@ -38,6 +46,14 @@ Some other notable projects using lexical include:
 [merde]: https://github.com/bearcove/merde
 [noodles]: https://github.com/zaeleus/noodles
 [databend]: https://github.com/databendlabs/bendsql
+[pagefind]: https://github.com/CloudCannon/pagefind
+[swc]: https://github.com/swc-project/swc
+[qlty]: https://github.com/qltysh/qlty
+[GraphQL]: https://github.com/hasura/graphql-engine
+[posixutils-rs]: https://github.com/rustcoreutils/posixutils-rs
+[jsonb]: https://github.com/databendlabs/jsonb
+[boa]: https://github.com/boa-dev/boa
+[qsv]: https://github.com/dathere/qsv
 
 ## Stats
 
