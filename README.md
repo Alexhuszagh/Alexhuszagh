@@ -31,6 +31,7 @@ Some other notable projects using lexical or fast-float2 include:
 - [jsonb]
 - [boa]
 - [qsv]
+- [serde_json] (a minified, vendored version)
 
 [rust-lang-pr]: https://github.com/rust-lang/rust/pull/86761
 [rust-lexical]: https://github.com/Alexhuszagh/rust-lexical
@@ -54,6 +55,7 @@ Some other notable projects using lexical or fast-float2 include:
 [jsonb]: https://github.com/databendlabs/jsonb
 [boa]: https://github.com/boa-dev/boa
 [qsv]: https://github.com/dathere/qsv
+[serde_json]: https://github.com/serde-rs/json/tree/master/src/lexical
 
 ## Stats
 
