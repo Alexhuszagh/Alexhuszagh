@@ -7,6 +7,7 @@
 Just a former biologist who got bored enough with Excel to start writing scripts to automate that process. Next thing, I'm optimizing floating-point parsers cross-compiled to a Raspberry Pi. Thinking is overrated and we should do less of it.
 
 All of my projects are done on my own time, and are not related to my day job, so I appreciate your understanding that reviewing and merging PRs and feature enhancements may take some time.
+<!-- [Please](https://synthmedia.fr/edito/tribunes/lutilisation-des-agents-intelligents-est-un-suicide-professionnel/) -->
 
 [![My Skills](https://skillicons.dev/icons?i=rust,python,cpp,docker,nodejs,typescript,qt,dotnet,cmake,selenium,vue,html,css,linux,bash)](https://skillicons.dev)
 
