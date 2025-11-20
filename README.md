@@ -8,6 +8,7 @@ Just a former biologist who got bored enough with Excel to start writing scripts
 
 All of my projects are done on my own time, and are not related to my day job, so I appreciate your understanding that reviewing and merging PRs and feature enhancements may take some time.
 <!-- [Please](https://synthmedia.fr/edito/tribunes/lutilisation-des-agents-intelligents-est-un-suicide-professionnel/) -->
+<!-- I find it ironic that Github's aggressive push of Copilot has destroyed Github as a public platform. -->
 
 [![My Skills](https://skillicons.dev/icons?i=rust,python,cpp,docker,nodejs,typescript,qt,dotnet,cmake,selenium,vue,html,css,linux,bash)](https://skillicons.dev)
 
@@ -34,6 +35,8 @@ Some other notable projects using lexical or fast-float2 include:
 - [qsv]
 - [serde_json] (a minified, vendored version)
 
+You can find public forks of all my repositories on [Gitlab].
+
 [rust-lang-pr]: https://github.com/rust-lang/rust/pull/86761
 [rust-lexical]: https://github.com/Alexhuszagh/rust-lexical
 [digit-comparison]: https://github.com/fastfloat/fast_float/blob/main/include/fast_float/digit_comparison.h
@@ -57,6 +60,7 @@ Some other notable projects using lexical or fast-float2 include:
 [boa]: https://github.com/boa-dev/boa
 [qsv]: https://github.com/dathere/qsv
 [serde_json]: https://github.com/serde-rs/json/tree/master/src/lexical
+[gitlab]: https://gitlab.com/Alexhuszagh
 
 ## Stats
 
