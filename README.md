@@ -2,6 +2,17 @@
   <img src="https://github.com/AlexHuszagh/AlexHuszagh/raw/main/VariableBarricade.png" alt="Variable Barricade with the guys around you." width="65%" height=65%">
 </div>
 
+## AI Coding Tools and Agents
+
+I don't use AI coding agents for both ethical and technical reasons and neither should you.
+
+1. Trained without user consent: these tools were trained on open-source codebases without the authorization of their users, and for GPL-licensed and proprietary projects, this raises both ethical and legal concerns. Companies like Microsoft and Adobe have altered their terms of use to coerce you into "accepting" training, which isn't reasonable consent and for mirrored projects, may never have been given to begin with.
+2. Prioritizes focusing on high-level design while getting low-level details wrong: AI coding tools often get specific, technical details wrong, while looking "good-enough", so actually validating this code that it both is sound and solves the issue at hand requires more effort than benefit. It may be good for quick-and-dirty tasks, but for larger code bases, it produces mass quantities of slop.
+3. Destroying the open-source ecosystem: open source work assumes good faith of contributors, knowledge of the code base, and effort made to create high-quality contributions. With AI agents, we're seeing a mass proliferation of low-quality PRs that seem reasonable ands make accepting the work of external contributors a net negative.
+4. Hurting junior developers: many junior developers rely on Github as a public resume. With larger projects closing down the doors to external contributors, many up-and-coming developers cannot prove their technical competence, and hiring unproven junior developers has become more effort than its worth.
+
+Until alternatives to Microslop and Github exist, unfortunately, I will be still maintaining all my projects here.
+
 ## About Me
 
 Just a former biologist who got bored enough with Excel to start writing scripts to automate that process. Next thing, I'm optimizing floating-point parsers cross-compiled to a Raspberry Pi. Thinking is overrated and we should do less of it.
