@@ -8,10 +8,12 @@ I don't use AI coding agents for both ethical and technical reasons and neither 
 
 1. Trained without user consent: these tools were trained on open-source codebases without the authorization of their users, and for GPL-licensed and proprietary projects, this raises both ethical and legal concerns. Companies like Microsoft and Adobe have altered their terms of use to coerce you into "accepting" training, which isn't reasonable consent and for mirrored projects, may never have been given to begin with.
 2. Prioritizes focusing on high-level design while getting low-level details wrong: AI coding tools often get specific, technical details wrong, while looking "good-enough", so actually validating this code that it both is sound and solves the issue at hand requires more effort than benefit. It may be good for quick-and-dirty tasks, but for larger code bases, it produces mass quantities of slop.
-3. Destroying the open-source ecosystem: open source work assumes good faith of contributors, knowledge of the code base, and effort made to create high-quality contributions. With AI agents, we're seeing a mass proliferation of low-quality PRs that seem reasonable ands make accepting the work of external contributors a net negative.
+3. Destroying the open-source ecosystem: open source work assumes good faith of contributors, knowledge of the code base, and effort made to create high-quality contributions. With AI agents, we're seeing a mass proliferation of low-quality PRs that seem reasonable ands make accepting the work of external contributors a net negative. We're already seeing AI agents attempt to [blackmail] volunteer contributors.
 4. Hurting junior developers: many junior developers rely on Github as a public resume. With larger projects closing down the doors to external contributors, many up-and-coming developers cannot prove their technical competence, and hiring unproven junior developers has become more effort than its worth.
 5. Accessibility and internet access: solving CAPTCHAs is practically impossible for anyone with disabilities or the elderly. Want to create a Github account? Congratulations, me, an able-bodied, young adult was barely able to solve the visual tests when helping an aquaintance. Want to change my Microsoft password due to security alerts? I was only able to pass the hearing tests.
 6. Proliferation of scams: the low effort it takes to generate scams has made exploiting people, especially the elderly, very easy. The AI "revolution" so far has benefitted con artists and scammers more than anyone else.
+
+[blackmail]: https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/
 
 Until alternatives to Microslop and Github exist, unfortunately, I will be still maintaining all my projects here.
 
