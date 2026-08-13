@@ -12,6 +12,9 @@ I don't use AI coding agents for both ethical and technical reasons and neither 
 4. Hurting junior developers: many junior developers rely on Github as a public resume. With larger projects closing down the doors to external contributors, many up-and-coming developers cannot prove their technical competence, and hiring unproven junior developers has become more effort than its worth.
 5. Accessibility and internet access: solving CAPTCHAs is practically impossible for anyone with disabilities or the elderly. Want to create a Github account? Congratulations, me, an able-bodied, young adult was barely able to solve the visual tests when helping an aquaintance. Want to change my Microsoft password due to security alerts? I was only able to pass the hearing tests.
 6. Proliferation of scams: the low effort it takes to generate scams has made exploiting people, especially the elderly, very easy. The AI "revolution" so far has benefitted con artists and scammers more than anyone else.
+7. Increasing costs for hardware: the wide proliferation of LLMs has caused the price of hardware to skyrocket, hurting individual (especially low income) who are buying new computers and phones.
+8. Major environmental impacts: LLM training and deployment uses a large amount of energy and it's an environmental disaster use with no end in sight.
+9. Destroys user experience on the web: does every site really need a chatbot, especially intrusive ones? How about unresponsive pages because they are constantly waiting for an LLM to respond in online editors, causing sites like Jira to become practically unusable.
 
 [blackmail]: https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/
 
