@@ -89,7 +89,7 @@ You can find public forks of my repositories on [Gitlab] or [Codeberg].
 
 <p align="center">
     <a href="https://github.com/AlexHuszagh" style="width: 100%">
-        <img src="https://github-readme-stats.vercel.app/api?username=AlexHuszagh&show_icons=true&theme=radical" alt="" height="160px"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexHuszagh&layout=compact&theme=radical&langs_count=6" alt="" height="160px"/>
+        <img src="https://github-stats-extended.vercel.app/api?username=AlexHuszagh&show_icons=true&theme=radical" alt="" height="160px"/>
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlexHuszagh&layout=compact&theme=radical&langs_count=6" alt="" height="160px"/>
     </a>
 </p>
