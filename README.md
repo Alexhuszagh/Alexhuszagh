@@ -49,11 +49,11 @@ Some other notable projects using lexical or fast-float2 include:
 - [GraphQL]
 - [posixutils-rs]
 - [jsonb]
-- [boa]
+- [boa] (and therefore dependent projects such as [biome], [reth], [foundry], [clash-verge-rev], and more)
 - [qsv]
 - [serde_json] (a minified, vendored version)
 
-You can find public forks of all my repositories on [Gitlab].
+You can find public forks of my repositories on [Gitlab] or [Codeberg].
 
 [rust-lang-pr]: https://github.com/rust-lang/rust/pull/86761
 [rust-lexical]: https://github.com/Alexhuszagh/rust-lexical
@@ -78,7 +78,12 @@ You can find public forks of all my repositories on [Gitlab].
 [boa]: https://github.com/boa-dev/boa
 [qsv]: https://github.com/dathere/qsv
 [serde_json]: https://github.com/serde-rs/json/tree/master/src/lexical
+[biome]: https://github.com/biomejs/biome
+[reth]: https://github.com/paradigmxyz/reth
+[foundry]: https://github.com/foundry-rs/foundry
+[clash-verge-rev]: https://github.com/clash-verge-rev/clash-verge-rev
 [gitlab]: https://gitlab.com/Alexhuszagh
+[Codeberg]: https://codeberg.org/ahuszagh/
 
 ## Stats
 
